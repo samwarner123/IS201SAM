@@ -1,0 +1,30 @@
+p{
+    font-weight: thin;
+    font-size: 70px
+}
+
+
+.emphasizedText{
+    font-style:initial;
+    color: pink
+}
+
+body{
+    background-color: slategray;
+    color: whitesmoke; 
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border: 30px solid whitesmoke;
+    padding: 50px;
+    text-align: center;
+}
+ol{
+    list-style-position: inside;
+    text-align: left;
+}
+
+ul{
+    list-style-position: inside;
+    text-align: left;
+    margin-left: 40%; 
+  
+}
